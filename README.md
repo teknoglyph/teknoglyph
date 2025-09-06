@@ -7,6 +7,8 @@ Outside of work, you’ll often find me exploring the Pacific Northwest, trail r
 I’m also passionate about music, film, tinkering with PCs, building apps, reading, and cooking (and eating) great food. 
 For me, nothing quite matches the thrill of unboxing a brand-new piece of tech.
 
+I enjoy exploring GenAI, Python, and other tools to create apps that support both my work and hobbies. I’ve got plenty of ideas in the pipeline, so stay tuned for new projects here.
+
 <!--
 **teknoglyph/teknoglyph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
